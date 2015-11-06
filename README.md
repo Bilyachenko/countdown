@@ -1,5 +1,3 @@
-# countdown
-<pre>
 <code>
 $(document).ready(function(){
 if (jQuery().countdown) {
@@ -7,4 +5,3 @@ if (jQuery().countdown) {
   }
 })
 </code>
-<pre>
