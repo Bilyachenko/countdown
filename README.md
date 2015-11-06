@@ -1,5 +1,5 @@
 #data-countdown
-Enter date and time
+Set a date
 <pre>
 data-countdown="2016/08/10 13:50:00"
 </pre>
